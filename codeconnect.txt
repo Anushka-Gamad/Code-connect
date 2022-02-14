@@ -1,0 +1,2 @@
+the basic idea for this application is to connect people according to their interest in coding languages. 
+tech stack: socket.io , node.js , express.js ,  moment.js
